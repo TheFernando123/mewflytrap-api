@@ -1,0 +1,15 @@
+# Archivos de configuración local y credenciales secretas
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Carpetas de configuración local de Vercel
+.vercel/
